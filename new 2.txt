@@ -1,0 +1,10 @@
+# AZURE
+
+## VM
+- UbuntuM01
+    - id: tony
+    - pd: "123ssd"
+    - Resource group: test
+    - Availability set: (new)test
+    - Diagnostic storage account: {Name: tony0921}
+    
